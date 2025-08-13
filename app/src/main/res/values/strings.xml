@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">BTBY Compose</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="explore_search_hint">Explore Products, Brands &amp; more...</string>
+    <string name="explore_page_title_1">What’s Hot</string>
+    <string name="explore_page_title_2">Popular Stores</string>
+    <string name="explore_page_title_3">Trending this Week</string>
+    <string name="explore_page_title_4">New and Noteworthy</string>
+    <string name="explore_page_title_5">Frequently Visited</string>
+    <string name="visit">Visit</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="lorem_ipsum">Lorem ipsum </string>
+    <string name="lorem_ipsum_desc">Lorem ipsum is typically a corrupted version of De finibus bonorum et malorum, a 1st-century BC text by the Roman statesman and philosopher Cicero, with words altered, added, and removed to make it nonsensical and improper Latin. The first two words themselves are a truncation of dolorem ipsum ("pain itself").
+        Versions of the Lorem ipsum text have been used in typesetting at least since the 1960s, when it was popularized by advertisements for Letraset transfer sheets.[1] Lorem ipsum was introduced to the digital world in the mid-1980s, when Aldus employed it in graphic and word-processing templates for its desktop publishing program PageMaker. Other popular word processors, including Pages and Microsoft Word, have since adopted Lorem ipsum,[2] as have many LaTeX packages,[3][4][5] web content managers such as Joomla! and WordPress, and CSS libraries such as Semantic UI.</string>
+    <string name="upload_promos">Upload Promos</string>
+    <string name="free_plan">Free Plan PPV</string>
+    <string name="upload_promo_title">Select Photos or Video to upload</string>
+    <string name="upload_promo_subtitle">720px1280 resolution or higher up to \n5 minutes less than 2 GB</string>
+    <string name="upload_video">Upload Video</string>
+    <string name="photo_slideshow">Photo Slideshow</string>
+    <string name="selected_photos">Selected photos</string>
+    <string name="select_photos">Select photos</string>
+    <string name="audio">Audio (Optional)</string>
+    <string name="commercial_title">Commercial Title</string>
+    <string name="enter_title">Enter title here</string>
+    <string name="description">Description</string>
+    <string name="enter_desc">Your description here</string>
+    <string name="tags">Tags</string>
+    <string name="enter_tag">Enter tag</string>
+    <string name="category">Category</string>
+    <string name="visit_link">Visit Link</string>
+    <string name="enter_url">Enter url</string>
+    <string name="list_price">List Price</string>
+    <string name="discounts">Discounts ( optional )</string>
+    <string name="upload">Upload</string>
+    <string name="Ceate_reel">Create Reel</string>
+    <string name="subscription_options">Subscription Options</string>
+    <string name="upload_checkbox_1_text">By clicking here, I agree to pay the click-through rate based on subscription plan.</string>
+    <string name="upload_checkbox_2_text">Discount information included</string>
+    <string name="upload_checkbox_3_text">I certify that I represent the featured brand</string>
+
+    <string name="subs_plan">Subscription Plan</string>
+    <string name="subs_plan_card1_title">Small Business</string>
+    <string name="subs_plan_card1_subtitle_1">$0.50 per click-through ( redirect to visit links )</string>
+    <string name="subs_plan_card1_subtitle_2">Add Up to 4 Photos per Slideshow</string>
+    <string name="subs_plan_card1_subtitle_3">1 Boost included monthly</string>
+    <string name="subs_plan_card2_title">Scaling Business</string>
+    <string name="subs_plan_card2_subtitle_1">$0.20 per click-through ( redirect to visit links )</string>
+    <string name="subs_plan_card2_subtitle_2">Add Up to 5 Photos per Slideshow</string>
+    <string name="subs_plan_card2_subtitle_3">2 Boost included monthly</string>
+    <string name="subs_plan_card3_title">Enterprise Business</string>
+    <string name="subs_plan_card3_subtitle_1">$0.05 per click-through ( redirect to visit links )</string>
+    <string name="subs_plan_card3_subtitle_2">Add Up to 6 Photos per Slideshow</string>
+    <string name="subs_plan_card3_subtitle_3">3 Boost included monthly</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="messages">Messages</string>
+    <string name="send_msg">Send Message</string>
+
+    <string name="no_internet">Please check your internet connection and try again.</string>
+    <string name="try_again">Something went wrong, Please try again.</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+    <string name="edit">Edit</string>
+    <string name="edit_slideshow">Edit Slideshow</string>
+
+</resources>
